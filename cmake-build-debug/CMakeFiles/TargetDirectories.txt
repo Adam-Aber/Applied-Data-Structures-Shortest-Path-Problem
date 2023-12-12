@@ -1,0 +1,3 @@
+C:/Users/Adam/CLionProjects/AppliedDataStructureAssignment6/AssignBonus/cmake-build-debug/CMakeFiles/AssignBonus.dir
+C:/Users/Adam/CLionProjects/AppliedDataStructureAssignment6/AssignBonus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Adam/CLionProjects/AppliedDataStructureAssignment6/AssignBonus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
